@@ -13,5 +13,5 @@
 ## 🛠 Compétences
 
 - **Languages:** JavaScript, HTML, CSS, PHP, SQL, Java
-- **Frameworks:** Node.js
-- **Tools:** Git, Docker, Visual Studio Code
+- **Frameworks:** Node.js, MySQL, sk2
+- **Tools:** Git, Visual Studio Code, Eclipse IDE
