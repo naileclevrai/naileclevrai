@@ -13,5 +13,5 @@
 ## 🛠 Compétences
 
 - **Languages:** JavaScript, Java, C+, C#
-- **Frameworks:** Node.js, MySQL, sk2
+- **Frameworks:** Express.js
 - **Tools:** Git, Visual Studio Code, Eclipse IDE
