@@ -57,7 +57,8 @@ Hey, je suis Nailec ! 👨‍💻 Jeune développeur web et passionné de dével
 - 🌐 **Applications Web** - Sites web modernes avec des technologies avancées
 
 ## 📈 Contribution GitHub
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=naileclevrai&theme=react-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naileclevrai&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naileclevrai&layout=compact&theme=radical)
 
 ## 📫 Contact
 Pour toute collaboration ou question, n'hésitez pas à me contacter via mes réseaux sociaux ou par email !
