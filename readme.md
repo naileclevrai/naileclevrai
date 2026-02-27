@@ -8,7 +8,7 @@
 
 <p align="center">
   Passionné par la lumière, le live, le web, l’IoT et les systèmes interactifs.<br>
-  Je construis des expériences techniques solides, propres et créatives.
+  Je construis des expériences techniques propres, stables et créatives.
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naileclevrai&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naileclevrai&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
