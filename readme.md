@@ -36,7 +36,7 @@
 
 ---
 
-## 📊 GitHub Stats (fast & fiable)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=naileclevrai&show_icons=true&theme=dark" alt="Stats GitHub Fast" />
