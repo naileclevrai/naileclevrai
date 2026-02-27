@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  Passionné par la lumière, le live, le web, l’IoT et les systèmes interactifs.
+  Passionné par la lumière, le live, le web, l’IoT et les systèmes interactifs.<br>
+  Je conçois des expériences techniques propres, fiables et créatives.
 </p>
 
 ---
@@ -15,12 +16,12 @@
 ## 🧩 À propos de moi
 
 - 🎚️ Régie lumière événementielle (grandMA2 / dot2)
-- 🧠 Management & projets techniques chez Streamline Agency
+- 🧠 Direction & projets techniques chez **Streamline Agency**
 - 💻 Développement web, scripts & automatisation
-- 🔌 IoT, hardware, domotique
-- 🎮 FiveM, Minecraft, Discord, TikTok Live
+- 🔌 IoT, hardware, domotique, électronique créative
+- 🎮 Projets FiveM, Minecraft, Discord & TikTok Live
 
-🌐 https://nailec.fr
+🌐 **https://nailec.fr**
 
 ---
 
@@ -35,19 +36,21 @@
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub stats (stable)
+
+> Service **Awesome GitHub Stats**  
+> ✔️ Stable  
+> ✔️ Pas de mirror  
+> ✔️ Pas de camo  
+> ✔️ Pas de cache cassé
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naileclevrai&show_icons=true&hide_border=true&bg_color=00000000" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naileclevrai&no-frame=true&no-bg=true&row=1&margin-w=10" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/naileclevrai?theme=dark&hide_border=true" />
 </p>
 
 ---
 
-## 🌍 Liens
+## 🌍 Liens & communauté
 
 <p align="center">
   <a href="https://tiktok.com/@nailecmc">
@@ -60,6 +63,8 @@
     <img src="https://img.shields.io/badge/Site-nailec.fr-orange?style=for-the-badge&logo=firefox&logoColor=white">
   </a>
 </p>
+
+---
 
 <p align="center">
   ⚡ <i>Build clean. Run stable. Light it right.</i>
