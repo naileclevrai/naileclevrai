@@ -16,7 +16,7 @@
 ## 🧩 À propos de moi
 
 - 🎚️ Régie lumière événementielle (grandMA2 / dot2)
-- 🧠 Direction & projets techniques chez **Streamline Agency**
+- 🧠 Direction & projets techniques chez Streamline Agency
 - 💻 Développement web, scripts & automatisation
 - 🔌 IoT, hardware, domotique, électronique créative
 - 🎮 Projets FiveM, Minecraft, Discord & TikTok Live
@@ -36,16 +36,14 @@
 
 ---
 
-## 📊 GitHub stats (stable)
-
-> Service **Awesome GitHub Stats**  
-> ✔️ Stable  
-> ✔️ Pas de mirror  
-> ✔️ Pas de camo  
-> ✔️ Pas de cache cassé
+## 📊 GitHub Stats (fast & fiable)
 
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/naileclevrai?theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=naileclevrai&show_icons=true&theme=dark" alt="Stats GitHub Fast" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=naileclevrai&layout=compact&langs_count=8&theme=dark" alt="Top Languages Fast" />
 </p>
 
 ---
@@ -63,8 +61,6 @@
     <img src="https://img.shields.io/badge/Site-nailec.fr-orange?style=for-the-badge&logo=firefox&logoColor=white">
   </a>
 </p>
-
----
 
 <p align="center">
   ⚡ <i>Build clean. Run stable. Light it right.</i>
