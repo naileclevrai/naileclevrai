@@ -1,67 +1,105 @@
 ![Banner](banner.png)
 
-<h1 align="center">👋 Salut, moi c’est Nailec</h1>
+<h1 align="center">🎛️ Nailec</h1>
 
 <p align="center">
-  🎛️ Régisseur lumière <b>grandMA2</b> • 💻 Développeur • 🧠 Head Manager @ <b>Streamline Agency</b>
+  Lighting Operator • Developer • Lighting Network Integrator
 </p>
 
 <p align="center">
-  Passionné par la lumière, le live, le web, l’IoT et les systèmes interactifs.<br>
-  Je conçois des expériences techniques propres, fiables et créatives.
-</p>
-
----
-
-## 🧩 À propos de moi
-
-- 🎚️ Régie lumière événementielle (grandMA2 / dot2)
-- 🧠 Direction & projets techniques chez Streamline Agency
-- 💻 Développement web, scripts & automatisation
-- 🔌 IoT, hardware, domotique, électronique créative
-- 🎮 Projets FiveM, Minecraft, Discord & TikTok Live
-
-🌐 **https://nailec.fr**
-
----
-
-## 🚀 Tech & outils
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,php,lua,java,python" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,docker,linux,git,github" />
+  <b>grandMA2 / grandMA3</b> • Art-Net • sACN • Minecraft Development • Node.js
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 👋 About Me
+
+Passionate about live event technology, lighting control systems, and software development, I build tools and solutions for the entertainment industry.
+
+My main areas of expertise include:
+
+* 🎛️ grandMA2 & grandMA3 programming and operation
+* 🌐 Art-Net and sACN network design & deployment
+* ⚡ grandMA plugin and workflow development
+* ⛏️ Minecraft mod and plugin development
+* 🤖 Node.js applications, Discord bots, and automation
+* 🔧 Hardware integration, IoT, and interactive systems
+
+🌍 **https://nailec.fr**
+
+---
+
+## 🎛️ Lighting Technologies
+
+* grandMA2
+* dot2
+* Art-Net
+
+---
+
+## 🚀 Development Stack
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=naileclevrai&show_icons=true&theme=dark" alt="Stats GitHub Fast" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,java,lua,python,html,css,php" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=naileclevrai&layout=compact&langs_count=8&theme=dark" alt="Top Languages Fast" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,docker,linux,git,github,mysql" />
 </p>
 
 ---
 
-## 🌍 Liens & communauté
+## 📦 Featured Projects
+
+### 🎛️ MA Lighting
+
+* grandMA2 Plugins
+* Show Automation Tools
+* Busking Workflow Utilities
+* Network Diagnostic Tools
+
+### ⛏️ Minecraft
+
+* Forge Mods
+* Bukkit / Paper Plugins
+* Interactive Live Projects
+* Stage & Event Simulation Systems
+
+### 🤖 Node.js
+
+* Discord Bots
+* Web Dashboards
+* Automation Systems
+* Real-Time Event Processing
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://tiktok.com/@nailecmc">
-    <img src="https://img.shields.io/badge/TikTok-@nailecmc-black?style=for-the-badge&logo=tiktok&logoColor=white">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=naileclevrai&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=naileclevrai&layout=compact&langs_count=8&theme=dark" />
+</p>
+
+---
+
+## 🌍 Links
+
+<p align="center">
+  <a href="https://nailec.fr">
+    <img src="https://img.shields.io/badge/Website-nailec.fr-orange?style=for-the-badge">
+  </a>
+  <a href="https://github.com/naileclevrai">
+    <img src="https://img.shields.io/badge/GitHub-naileclevrai-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://discord.gg/streamlineagency">
-    <img src="https://img.shields.io/badge/Discord-Streamline%20Agency-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="https://nailec.fr">
-    <img src="https://img.shields.io/badge/Site-nailec.fr-orange?style=for-the-badge&logo=firefox&logoColor=white">
+    <img src="https://img.shields.io/badge/Discord-Streamline%20Agency-5865F2?style=for-the-badge&logo=discord">
   </a>
 </p>
 
 <p align="center">
-  ⚡ <i>Build clean. Run stable. Light it right.</i>
+  <i>Lighting • Networking • Development</i>
 </p>
